@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FinalFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="gameOverText">Game Over, Please enter name to Click Scoreboard button to proceed</string>
+    <string name="fragment_text">Conjugation is the variation of a verb form in most Romantic languages (such as in this game (French)), based on tense and person. This game deals with regular verbs in the present tense. The three most common types of regular verbs or ER, IR, and RE verbs, called so because of their ending characters.</string>
+    <string name="reverbs_title">REVERBS</string>
+    <string name="ir_verbs_title">IR VERBS</string>
+    <string name="er_verbs_title">ER VERBS</string>
+    <string name="play">Play</string>
+    <string name="title">Let\'s Conjugate!</string>
+    <string name="super_hard_verbs">Super Hard Verbs</string>
+    <string name="je">Je</string>
+    <string name="first_person_singular">First Person Singular</string>
+    <string name="tu">Tu</string>
+    <string name="il_elle_on">Il/Elle/On</string>
+    <string name="second_person_singular">Second Person Singular</string>
+    <string name="third_person_singular">Third Person Singular</string>
+    <string name="nous">Nous</string>
+    <string name="first_person_plural">First Person Plural</string>
+    <string name="vous">Vous</string>
+    <string name="second_person_plural">Second Person Plural</string>
+    <string name="ils_elles">Ils/Elles</string>
+    <string name="third_person_plural">Third Person Plural</string>
+    <string name="learn_more">Learn More</string>
+    <string name="check">Check</string>
+    <string name="ready">Ready…</string>
+    <string name="start">Start</string>
+    <string name="score">Score:</string>
+    <string name="_0">0</string>
+    <string name="_100">100</string>
+    <string name="conjugation">CONJUGATION</string>
+    <string name="iregNote">Some verbs in present tense are irregular, and have no common pattern between other verbs. This could be as
+        simple as just adding a \'e\' to the nous from in the besides regular ER \'manger\', to having a seemingly random pattern for all 6 pronoun types such as \'avoir\'. To
+        read further, copy and past this URL to your local browser.
+    </string>
+    <string name="irNote">To conjugate IR verbs, first drop the IR ending from the infinitive to get the root, then going by the pattern: IS IS IT ISSONS ISSEZ ISSENT to the end of the root verb depending on the pronoun </string>
+    <string name="erNote">To conjugate ER verbs, first drop the ER ending from the infinitive to get the root, then going by the pattern: E ES E ONS EZ ENT to the end of the root verb depending on the pronoun </string>
+    <string name="reNote">To conjugate RE verbs, first drop the RE ending from the infinitive to get the root, then going by the pattern: S S (nothing) ONS EZ ENT to the end of the root verb depending on the pronoun </string>
+    <string name="conjNote">French conjugation refers to the variation in the endings of French verbs which depends on several things:person (first, second, third, etc), tense (present, future, etc), and mood (indicative, imperative and subjunctive). This game only dealt with present tense.</string>
+    <string name="let_s_learn">Let\'s Learn</string>
+    <string name="what_is_conjugation">What is conjugation?</string>
+    <string name="irreg_verbs">Irreg. Verbs</string>
+    <string name="title_activity_next">NextActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

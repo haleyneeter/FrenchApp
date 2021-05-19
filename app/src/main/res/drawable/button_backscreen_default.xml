@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:width="60dp" android:height="50dp" android:left="50dp">
+        <shape>
+            <solid android:color="@color/frenchRed"/>
+            <corners
+                android:bottomLeftRadius="2dp"
+                android:topLeftRadius="2dp"/>
+        </shape>
+    </item>
+
+    <item android:width="35dp" android:height="35dp"
+        android:left="50dp">
+        <rotate android:fromDegrees="45"
+            android:pivotX="0"
+            android:pivotY="0">
+            <shape>
+                <solid android:color="@color/frenchRed"/>
+            </shape>
+        </rotate>
+    </item>
+
+</layer-list>
